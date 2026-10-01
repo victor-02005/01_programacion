@@ -33,4 +33,4 @@ with open("registro_estudio.txt", "w", encoding="utf-8") as archivo:
     archivo.write(f"Total de horas: {total_horas}\n")
     archivo.write(f"Días cumplidos: {dias_cumplidos}\n")
 
-
+print("Proyecto de aprendizaje de Python")
